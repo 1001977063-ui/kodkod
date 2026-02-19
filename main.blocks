@@ -1,0 +1,1 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables></variables><block type="device_forever" id="Px$_9eud3fXTIzP:y_#h" x="582" y="0"><statement name="HANDLER"><block type="device_print_message" id="4)$/!S^j(H]ClTJgAqZ)"><value name="text"><shadow type="text" id="y/#@rxVlFtHfp6@]P]hY"><field name="TEXT">IRIT</field></shadow></value></block></statement></block></xml>
